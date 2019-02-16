@@ -1,0 +1,9 @@
+
+.venv/
+.vs
+
+### SublimeText ###
+*.sublime-workspace
+*.sublime-project
+### Visual Studio Code ###
+.vscode/
