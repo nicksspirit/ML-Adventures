@@ -8,3 +8,6 @@
 
 ### Visual Studio Code ###
 .vscode/
+
+### Jupyter ###
+.ipynb_checkpoints/
