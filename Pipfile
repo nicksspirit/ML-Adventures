@@ -10,11 +10,11 @@ scipy = "*"
 pandas = "*"
 cytoolz = "*"
 plotnine = "*"
+pyyaml = ">=4.2b1"
 
 [dev-packages]
 jupyter = "*"
 jupyter-contrib-nbextensions = "*"
-hide-code = "*"
 
 [requires]
 python_version = "3.7"
